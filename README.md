@@ -30,3 +30,11 @@ HTML och CSS är validerad via W3C HTML Validator/W3C CSS Validator och ska inte
   <li>Är gränssnittet (designen) tydligt indelad och lättanvänd?</li>
   <li>Finns det ändringar i designen som skulle kunna underlätta användandet av sidan? Öka kontrasterna på sidan? Använd mer marginaler/padding för att göra saker luftigare? Finns det element som är ojämnt centrerade etc.?</li>
   <li>Övriga synpunkter</li>
+  
+  <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
