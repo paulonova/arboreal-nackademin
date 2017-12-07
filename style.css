@@ -269,17 +269,34 @@ section.footer-left{
     margin-left: 20px;
  }
 
+footer section p.footer-spotlight{
+    font-size: large;
+}
+
+footer section p, a{
+    color: whitesmoke;
+    text-align: center;
+}
+
 img.footer-logo{
     align-items: center;
     width: 100px;
-    margin: auto;
+    margin: auto ;
+    flex: 2;
+}
+
+section.footer-form{
+    width: 24em;
+    max-width: 50%;
+    margin-right: 5%;
+    flex: 1;
 }
 
 
 .footer-distributed .footer-links a{
     display:inline-block;
     text-decoration: none;
-    color:  inherit;
+    color: #d67732;
 }
 
 address.footer-address{
@@ -293,8 +310,6 @@ address.footer-address{
     font-weight: normal;
     width: 100%;
 }
-
-
 
 address.footer-address a{
     cursor: pointer;
@@ -314,10 +329,7 @@ address.footer-address a{
 }
 
 
-section.footer-form{
-    width: 24em;
-    margin-right: 5%;
-}
+
 
 
 .footer-distributed ::-webkit-input-placeholder {
