@@ -1,11 +1,11 @@
 # arboreal-nackademin
 Inlämningsuppgift HTML &amp; CSS - Nackademin
 
-#Individuell examination 1
+<h2>Individuell examination 1</h2>
 Hemsida & peer review
 
 
-#Krav
+<h2>Krav</h2>
 Sidan använder sig av en fler-kolumns-layout.
 Du använder dig av semantisk HTML för att strukturera upp ditt innehåll. <div> ska enbart användas för styling-syfte.
 Du använder dig inte av id för att styla din sida. Styling ska ske med _class_ eller <tag>. Det ska heller inte förekomma inline styling med style-attributet i HTML.
@@ -14,18 +14,19 @@ Du använder i majoritet relativa måttenheter: % och rem/em. Användandet av en
 Sidan har en meny där man kan gå till de olika undersidorna. Sidan får vara en one page där det inte finns några undersidor (pricing, themes, about, contact t.ex.) men då ska menyn länka till de olika rubrikerna på sidan (scrolla till rubriken).
 Sidan innehåller all information ovan om företaget, logotyp, slogan, pricing etc. Hur det är strukturerat är dock upp till dig. Tabellen behöver t.ex. inte se exakt ut som den ser ut i detta dokument utan det viktiga är att man tydligt ser innehållet och att det är väl grupperat så man ser vilken information som hör till vad. Tabellen behöver inte heller vara av typen table.
 Sidan innehåller ett korrekt formaterat kontaktformulär som ska vara en <form> där man kan fylla i namn, telefonnummer, email, företag och meddelande. Inputfälten ska vara av rätt type och ha labels.
+<br>
 Projektet ska ha en README.md i rootmappen som beskriver projeket och som du även ska använda för att skriva ner återkopplingen i.
 Sidan får innehålla JavaScript men det ger inget extra, sidan examineras utifrån html och css.
 HTML och CSS är korrekt indenterad.
 HTML och CSS är validerad via W3C HTML Validator/W3C CSS Validator och ska inte innehålla varken fel eller varningar. Du ska bifoga den output du får utav valideringen i din README.md.
 
-#Feedbackpunkter
-#Förslag på feedbackpunkter:
-
-*Är HTMLen logiskt upplagd, korrekt indenterad och lättläst?
-*Är CSSen logiskt upplagd, korrekt indenterad och lättläst?
-*Tydlig namngivning av klasser så att man förstår vad det är som stylas?
-*Finns det överflödig CSS? För många selektorer eller för specifika selektorer? Upprepande av egenskaper i CSSen?
-*Är gränssnittet (designen) tydligt indelad och lättanvänd?
-*Finns det ändringar i designen som skulle kunna underlätta användandet av sidan? Öka kontrasterna på sidan? Använd mer *marginaler/padding för att göra saker luftigare? Finns det element som är ojämnt centrerade etc.?
-*Övriga synpunkter
+<h2>Feedbackpunkter</h2>
+<h3>Förslag på feedbackpunkter:</h3>
+<ol>
+  <li>Är HTMLen logiskt upplagd, korrekt indenterad och lättläst?</li>
+  <li>Är CSSen logiskt upplagd, korrekt indenterad och lättläst?</li>
+  <li>Tydlig namngivning av klasser så att man förstår vad det är som stylas?</li>
+  <li>Finns det överflödig CSS? För många selektorer eller för specifika selektorer? Upprepande av egenskaper i CSSen?</li>
+  <li>Är gränssnittet (designen) tydligt indelad och lättanvänd?</li>
+  <li>Finns det ändringar i designen som skulle kunna underlätta användandet av sidan? Öka kontrasterna på sidan? Använd mer marginaler/padding för att göra saker luftigare? Finns det element som är ojämnt centrerade etc.?</li>
+  <li>Övriga synpunkter</li>
