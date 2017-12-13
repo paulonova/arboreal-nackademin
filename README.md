@@ -48,6 +48,6 @@ Fantastiskt bra jobbat! Bra responsivitet med navigationen, bra användning av f
 
 Här är några punkter på förbättringar som jag kunde hitta efter att ha använt din sida några minuter:
 
-* "<a>-taggarna ovanför dina <div>" (t.ex. rad 36, 60 etc.) är överflödiga!  Jag misstänker att du tänkt använda de för navigation? Då kan du istället bara lägga ett id på den <div> eller <section> du vill länka till, istället.
+* "a-taggarna ovanför dina div" (t.ex. rad 36, 60 etc.) är överflödiga!  Jag misstänker att du tänkt använda de för navigation? Då kan du istället bara lägga ett id på den <div> eller <section> du vill länka till, istället.
 * En hel del tom yta mellan din <form> och innehållet bredvid(ikonen, adress etc).
 * I din form har du lagt type=“number” på telefonnummer. Det gör att det kommer upp en liten scroll när man ska fylla i det fältet. Det är nog bättre använda en annan type.</p>
