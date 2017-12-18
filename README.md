@@ -43,11 +43,12 @@ HTML och CSS är validerad via W3C HTML Validator/W3C CSS Validator och ska inte
 
 <br><br>
 <h1>Brandom feedback</h1>
-<p>Feedback:
-Fantastiskt bra jobbat! Bra responsivitet med navigationen, bra användning av flexbox för att låta innehållet placeras över varandra. Inga onödiga px-värden, och fint designat! 
+<h2>Feedback:</h2>
+<q>Fantastiskt bra jobbat! Bra responsivitet med navigationen, bra användning av flexbox för att låta innehållet placeras över varandra. Inga onödiga px-värden, och fint designat!</q>
+<ol>
+  <li>Här är några punkter på förbättringar som jag kunde hitta efter att ha använt din sida några minuter:</li>
+  <li>* "a-taggarna ovanför dina div" (t.ex. rad 36, 60 etc.) är överflödiga!  Jag misstänker att du tänkt använda de för navigation? Då kan du istället bara lägga ett id på den <div> eller <section> du vill länka till, istället.</li>
+  <li>* En hel del tom yta mellan din <form> och innehållet bredvid(ikonen, adress etc).</li>
+  <li>* I din form har du lagt type=“number” på telefonnummer. Det gör att det kommer upp en liten scroll när man ska fylla i det fältet. Det är nog bättre använda en annan type.</li>
+</ol>
 
-Här är några punkter på förbättringar som jag kunde hitta efter att ha använt din sida några minuter:
-
-* "a-taggarna ovanför dina div" (t.ex. rad 36, 60 etc.) är överflödiga!  Jag misstänker att du tänkt använda de för navigation? Då kan du istället bara lägga ett id på den <div> eller <section> du vill länka till, istället.
-* En hel del tom yta mellan din <form> och innehållet bredvid(ikonen, adress etc).
-* I din form har du lagt type=“number” på telefonnummer. Det gör att det kommer upp en liten scroll när man ska fylla i det fältet. Det är nog bättre använda en annan type.</p>
