@@ -1,7 +1,6 @@
 # arboreal-nackademin
 Inlämningsuppgift HTML &amp; CSS - Nackademin
 
-<a href="https://paulonova.github.io/arboreal-nackademin/">Link till GitPages</a>
 
 <h2>Individuell examination 1</h2>
 Hemsida & peer review
